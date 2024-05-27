@@ -1,0 +1,8 @@
+[
+  { "title": "Dashboard", "defaultImg": "assets/img/icon/dashboard.svg", "hoverImg": "assets/img/icon/dashboard-hover.svg", "alt": "dashboard" },
+  { "title": "Product", "defaultImg": "assets/img/icon/product.svg", "hoverImg": "assets/img/icon/product-hover.svg", "alt": "product" },
+  { "title": "Customers", "defaultImg": "assets/img/icon/customers.svg", "hoverImg": "assets/img/icon/customers-hover.svg", "alt": "customers" },
+  { "title": "Income", "defaultImg": "assets/img/icon/income.svg", "hoverImg": "assets/img/icon/income-hover.svg", "alt": "income" },
+  { "title": "Promote", "defaultImg": "assets/img/icon/promote.svg", "hoverImg": "assets/img/icon/promote-hover.svg", "alt": "promote" },
+  { "title": "Help", "defaultImg": "assets/img/icon/help.svg", "hoverImg": "assets/img/icon/help-hover.svg", "alt": "help" }
+]
