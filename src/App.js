@@ -29,7 +29,7 @@ function App() {
   
   const handlePageChange = (way) => {
     if (way === "moveOn") {
-      setCurrentPage((prev) => (prev < 96 ? prev + 3 : (prev = 90)));
+      setCurrentPage((prev) => (prev < 95 ? prev + 3 : (prev = 95)));
     }
     if (way === "backUp") {
       setCurrentPage((prev) => (prev > 4 ? prev - 3 : (prev = 1)));
